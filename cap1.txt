@@ -1,0 +1,77 @@
+Actividades capítulo 1 y 2 CCNA1
+UNIVERSIDAD DEL CAICA
+JUAN YELA
+104617020774
+https://github.com/JuanYela/Redes.git
+
+Preguntas de lectura: Capitulo 1
+1.	Estudiar
+Investigar
+Jugar
+Ver series y películas
+Comunicarme
+
+
+2.	Calidad de la ruta entre emisor y receptor
+Cantidad de veces que el mensaje tiene que cambiar la forma
+Cantidad de veces que el mensaje tiene que ser redireccionado o redirigido
+Cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación
+Cantidad de tiempo asignado para una comunicación exitosa
+
+
+3.	*Mensajes: En la primera fase de su viaje, los mensajes instantáneos se convierten en bits, señales digitales en binario, independientemente de su formato original. Estos son enviados a través de la red para su remisión.
+*Dispositivos: Los dispositivos, más allá de las computadoras, como teléfonos, cámaras y consolas de juegos, se conectan a las redes para participar en servicios de red. Routers y otros componentes facilitan la dirección de mensajes entre dispositivos a través de diversos medios.
+*Medio: Para dirigir mensajes a su destino, las computadoras deben estar conectadas a redes locales, ya sea inalámbricas o con cables. Las redes inalámbricas permiten la conectividad en varios lugares, mientras que las redes con cables, como Ethernet, son ideales para transmitir grandes cantidades de datos a alta velocidad.
+*Reglas: Las reglas, como XMPP, TCP e IP, son fundamentales en las redes, dictando cómo se envían y dirigen los mensajes, asegurando una comunicación efectiva entre dispositivos.
+
+
+4.	A. Datos: son como un tipo de representación de un atributo o una característica de una entidad.
+B. Red de datos: son estructuras diseñadas para transmitir información mediante el intercambio de datos, basándose en la conmutación de paquetes.
+C. Arquitectura de red: básicamente el diseño de cómo se comunican las cosas. Define cómo están organizados y conectados los elementos físicos de una red, así como sus reglas y procedimientos, incluyendo los protocolos que usan para funcionar de manera efectiva.
+D. Red convergente: Las redes convergentes unen voz, datos y video en una única red basada en IP, simplificando la gestión al utilizar un solo protocolo de nivel de red.
+5.	A. Tolerante a Fallos: es la capacidad de una red para seguir operando a pesar de posibles fallas, como cuando un router falla, pero la red se adapta con rutas alternativas.
+
+B. Escalabilidad: es la habilidad de una red para crecer sin perder eficiencia, similar a cómo un grupo de amigos puede crecer sin perder su dinámica original.
+
+C. Calidad del Servicio: implica dar prioridad a acciones específicas para mantener un funcionamiento sin problemas en la red, como asegurar que las videoconferencias no se vean afectadas mientras otros realizan tareas intensivas.
+
+D. Seguridad: se refiere a medidas como contraseñas, firewalls y encriptación para prevenir amenazas y proteger la integridad de los datos, como cerrar con llave una puerta para mantener la privacidad.
+
+
+6.	Las redes orientadas a la conexión establecen una conexión antes de transferir datos, asegurando la entrega ordenada y confiable de la información. Ejemplos incluyen TCP en Internet. Las redes no orientadas a la conexión transfieren datos sin establecer una conexión previa, como UDP en Internet, priorizando la velocidad sobre la confiabilidad.
+
+7.	La calidad del servicio (QoS) se refiere a la capacidad de una red para brindar un rendimiento fiable y predecible. Para mantener una buena QoS en aplicaciones que lo requieren, se necesita un ancho de banda adecuado, baja latencia, baja pérdida de paquetes y gestión eficiente del tráfico, además de priorizar y asignar recursos según las necesidades específicas de las aplicaciones críticas
+
+
+8.	La calidad del servicio en una red de datos es crucial porque garantiza un rendimiento fiable y predecible, lo que es esencial para aplicaciones críticas como videoconferencias, transmisión de datos en tiempo real y servicios sensibles a la latencia. Asegura una experiencia de usuario satisfactoria al mantener la estabilidad, velocidad y eficiencia de la comunicación.
+
+9.	Los proveedores de Internet de Nivel-1 (Tier-1) son compañías que tienen una infraestructura global y son capaces de interconectarse directamente entre sí sin depender de otros proveedores para alcanzar cualquier destino en Internet. Operan a nivel internacional y suelen tener acuerdos de intercambio de tráfico (peering) para facilitar la conectividad global.
+Los proveedores de Internet de Nivel-2 (Tier-2) son más regionales y dependen en parte de los proveedores de Nivel-1 para acceder a destinos fuera de su área geográfica. A menudo, compran servicios de conectividad a los proveedores de Nivel-1 para expandir su alcance global. Los proveedores de Nivel-2 pueden interconectarse con otros proveedores de Nivel-2 y Nivel-1.
+la diferencia principal radica en la escala global, la independencia de conectividad y las relaciones comerciales directas en el caso de los proveedores de Nivel-1, mientras que los proveedores de Nivel-2 son más regionales, dependen en parte de otros proveedores y pueden tener acuerdos comerciales para ampliar su alcance.
+
+
+10.	Decimos que los proveedores de Internet de Nivel-1 (Tier-1) son aquellos que tienen una infraestructura global extensa y conectividad directa con otros proveedores de Nivel-1. Algunos ejemplos de proveedores de Internet de Nivel-1 a nivel mundial son:
+
+•	AT&T
+•	Level 3 Communications 
+•	NTT Communications
+
+Por otro lado, los proveedores de Internet de Nivel-2 (Tier-2) son aquellos que no tienen una infraestructura tan extensa como los proveedores de Nivel-1. 
+Algunos ejemplos de proveedores de Internet de Nivel-2 a nivel mundial son:
+
+•	Verizon
+•	Sprint
+
+En Colombia, algunos proveedores de Internet en el país son:
+•	Movistar
+•	UNE EPM Telecomunicaciones
+
+
+11.	Los proveedores de Internet de Nivel-1 y Nivel-2 desempeñan roles cruciales en la conectividad global y en la transferencia eficiente de datos a través de la red mundial. Los proveedores de Nivel-1 destacan por su extensa infraestructura de red, estableciendo conexiones directas con otros proveedores de Nivel-1 a nivel mundial. Esto les confiere la capacidad de enviar datos a cualquier parte del mundo sin depender de intermediarios.
+
+En contraste, los proveedores de Nivel-2 cuentan con una infraestructura más limitada y pueden requerir la colaboración de proveedores de Nivel-1 para alcanzar destinos específicos en Internet. La colaboración entre estos dos niveles es esencial para mantener una conectividad global eficiente.
+
+Ambos tipos de proveedores desempeñan un papel fundamental al facilitar la comunicación a escala global, permitiendo la transmisión rápida y efectiva de datos a través de sus redes. Su contribución es esencial para evitar complicaciones y retrasos significativos en la conectividad global de Internet.
+
+12.	Los proveedores de Internet de Nivel-1 son vitales para la conectividad global al poseer infraestructuras globales y permitir la interconexión directa entre ellos, mejorando la eficiencia en la transmisión de datos a nivel mundial. Por otro lado, los proveedores de Nivel-2, aunque más regionales, contribuyen al flujo global de datos expandiendo su alcance y dependiendo en parte de los proveedores de Nivel-1. La colaboración entre ambas capas es esencial para garantizar una conectividad robusta y eficiente en la red global de Internet
+
